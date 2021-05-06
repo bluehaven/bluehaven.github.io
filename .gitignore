@@ -1,0 +1,9 @@
+*.iml
+compiler.xml
+encodings.xml
+misc.xml
+modules.xml
+copyright/*
+.idea
+vcs.xml
+workspace.xml
